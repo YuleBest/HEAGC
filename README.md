@@ -31,9 +31,19 @@
 
 由酷安用户 [@于乐Yule](http://www.coolapk.com/u/18214705) 和 [@王哪摸](http://www.coolapk.com/u/552579) 共同开发。
 
-## 更新日志
+## 更新日志（详见 [Release](https://github.com/YuleBest/HEAGC/Release)）
 
 - 初始版本：提供基本的16进制编码和压缩加密功能。
+- v1.9~v2.0：
+  1. 加入了gzip 压缩
+  2. 优化交互逻辑、显示美观度
+  3. 检测与脚本同目录下的脚本文件
+  4. 对解码部分进行了混淆
+  5. 文件的大小测试环节使用了计算方法得出
+  6. 加入了进度条动画
+  7. 代码方面，不再对代码进行加密
+  8. 代码方面，更改大部分变量名，对大部分代码进行了注释，使代码更容易阅读
+  9. 详见 [Release](https://github.com/YuleBest/HEAGC/Release)
 
 ## 联系方式
 
